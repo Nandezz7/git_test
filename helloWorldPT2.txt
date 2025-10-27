@@ -1,1 +1,0 @@
-It's been 2 says since I last read through through The Odin Project. I'm creating this temporary file in order to refresh my memory on how to use Git.
